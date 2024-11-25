@@ -1,0 +1,12 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore compiled binaries
+*.dll
+*.exe
+
+# Ignore node_modules (if using Node.js)
+node_modules/
+
+# Ignore log files
+*.log
