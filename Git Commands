@@ -1,0 +1,8 @@
+git for pull
+git pull origin main
+
+git for push
+git add .
+git commit -m "addesd"
+git remote add ""
+git push -u origin main
